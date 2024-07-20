@@ -61,7 +61,7 @@ const Feedbacks = () => {
         </motion.div>
         <motion.div variants={textVariant()}>
           <h6 className={styles.sectionHeadText}>Resume</h6>
-          <a href="https://drive.google.com/file/d/1nJxq0zoWbReyfDLRAFzlBxCeVo5x3G_C/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1rl335_K92UQaGJEgoLUzxKBkrvRGjkUc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <img src={resume_logo} alt="resume" style={{ width: '70px', marginRight: '10px' }}/>
         </a>
         </motion.div>
